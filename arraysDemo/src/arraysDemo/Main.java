@@ -18,7 +18,7 @@ public class Main {
 		
 		System.out.println("-------------------------");
 		
-		// Þu þekilde yapabiliriz.
+		// Þu þekilde yapabiliriz:
 		
 		String[] ogrenciler = new String[3];
 		ogrenciler[0] = "Bilal";
