@@ -19,7 +19,7 @@ public class Main {
 		customerManager.Add();
 		employeeManager.Add();
 		
-		// Aynı yukarıdaki gibi; bu ikisi PersonManager extends ettiği için sadece PersonManager'da olan "Add" de kullanabilirler.
+		// Aynı yukarıdaki gibi; bu ikisi PersonManager extends ettiği için sadece PersonManager içinde olan "Add"i de kullanabilirler.
 	}
 
 }
